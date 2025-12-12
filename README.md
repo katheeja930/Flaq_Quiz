@@ -1,6 +1,3 @@
-Fine, Katheeja. Here’s a clean, **ready-to-drop-in README.md** for your **Capital City Quiz** project. No drama, no fuss. Just paste it into GitHub and move on with your life.
-
----
 
 # Capital City Quiz
 
